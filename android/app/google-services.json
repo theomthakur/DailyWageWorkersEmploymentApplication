@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "166956155868",
+    "firebase_url": "https://pushnewnotification-c4a82.firebaseio.com",
+    "project_id": "pushnewnotification-c4a82",
+    "storage_bucket": "pushnewnotification-c4a82.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:166956155868:android:3bc058eb3224dbec408519",
+        "android_client_info": {
+          "package_name": "com.example.workers_employment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "166956155868-5gktgj2m5p59truoso8i94rot1qpm6ho.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxeIqx1n1UhNQwktdTcSZmsCcc-JYMa68"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "166956155868-5gktgj2m5p59truoso8i94rot1qpm6ho.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
